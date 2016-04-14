@@ -6,3 +6,4 @@ DONE:
 - Setting up your first React component with NPM, Babel, and Webpack
 - add travis deployment
 	- fix missing slash
+- Pure Functions. f(d)=v. Props and Nesting Components.
