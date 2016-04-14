@@ -4,3 +4,4 @@
 
 DONE:
 - Setting up your first React component with NPM, Babel, and Webpack
+- add travis deployment
