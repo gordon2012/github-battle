@@ -7,3 +7,4 @@ DONE:
 - add travis deployment
 	- fix missing slash
 - Pure Functions. f(d)=v. Props and Nesting Components.
+- this.props.children and getting started with React Router
