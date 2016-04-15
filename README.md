@@ -8,3 +8,4 @@ DONE:
 	- fix missing slash
 - Pure Functions. f(d)=v. Props and Nesting Components.
 - this.props.children and getting started with React Router
+- Container vs Presentational Components, PropTypes, and Stateless Functional Components
