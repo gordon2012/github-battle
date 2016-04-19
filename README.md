@@ -11,3 +11,4 @@ DONE:
 - Container vs Presentational Components, PropTypes, and Stateless Functional Components
 - Life Cycle Events and Conditional Rendering
 - Axios, Promises, and the Github API
+- Rendering UI
