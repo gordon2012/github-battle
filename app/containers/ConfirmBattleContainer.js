@@ -34,7 +34,7 @@ var ConfirmBattleContainer = React.createClass({
 			state: {
 				playersInfo: this.state.playersInfo
 			}
-		})
+		});
 	},
 
 	render: function() {

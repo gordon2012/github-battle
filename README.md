@@ -12,3 +12,4 @@ DONE:
 - Life Cycle Events and Conditional Rendering
 - Axios, Promises, and the Github API
 - Rendering UI
+- More Container vs Presentational Components
