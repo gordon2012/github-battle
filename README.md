@@ -13,3 +13,4 @@ DONE:
 - Axios, Promises, and the Github API
 - Rendering UI
 - More Container vs Presentational Components
+- Private Functional Stateless Components
