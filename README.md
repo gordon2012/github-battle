@@ -15,3 +15,4 @@ DONE:
 - More Container vs Presentational Components
 - Private Functional Stateless Components
 - Building a Highly Reusable React Component
+- React Router Transition Animation and Webpack's CSS Loader
